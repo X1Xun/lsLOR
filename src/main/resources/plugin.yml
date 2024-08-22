@@ -1,0 +1,6 @@
+name: lsrm
+version: '${project.version}'
+main: me.xixun.lsrm.Lsrm
+api-version: '1.20'
+commands:
+
